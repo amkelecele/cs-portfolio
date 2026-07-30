@@ -1,4 +1,4 @@
-# cs-portfolio
+# Portfolio
 Software development portfolio with desktop applications and systems projects
 
 ## About Me
