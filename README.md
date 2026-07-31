@@ -1,148 +1,149 @@
-# 💼 Portfolio
+# 💼 Software Development Portfolio
 
-Welcome to my software development portfolio. This repository showcases projects I've built while studying Computer Science, ranging from desktop applications to systems programming and algorithmic problem solving.
-
----
-
-# 👨‍💻 About Me
-
-I'm a Computer Science student with a passion for building reliable, efficient software and continuously improving my software engineering skills.
-
-My interests include:
-
-* 💻 Software Engineering
-* ⚙️ Systems Programming
-* 🖥️ Desktop Application Development
-* 🧩 Object-Oriented Design
-* 🧵 Concurrent & Multithreaded Programming
-* 🐧 Linux Development
-
-I'm particularly interested in writing maintainable code, learning modern development practices, and understanding how software works from the operating system up to the user interface.
+Welcome! I'm **Amkele Cele**, a third-year **BSc Computer Science and Information Technology** student. This portfolio showcases the software projects I've built throughout my studies, highlighting my growth as a developer and my passion for building practical, well-designed applications.
 
 ---
 
-# 🛠 Tech Stack
+# 👋 About Me
 
-### Languages
+I'm an aspiring software engineer who enjoys solving problems through software. My interests span desktop application development, software engineering, systems programming, databases, and modern development tools.
 
+I enjoy learning new technologies, improving my programming skills, and building projects that strengthen my understanding of software architecture, object-oriented programming, and algorithm design.
+
+Outside of coursework, I enjoy exploring Linux, customizing my development environment, and continuously improving my workflow.
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science in Computer Science and Information Technology**
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+* Java
 * C++
 * C#
-* Java
 * Python
 * SQL
+* HTML
+* CSS
+* JavaScript
 
-### Frameworks & Libraries
+## Frameworks & Technologies
 
 * Qt
 * .NET Windows Forms
+* SQL Server
+* React (Personal Project)
+* ASP.NET
 
-### Development Tools
+## Runtime & Platforms
+- Node.js (Personal Project)
+
+## Databases
+- SQL Server
+- MySQL
+
+## Development Tools
 
 * Git & GitHub
-* Linux (Arch Linux / Hyprland)
+* Arch Linux
 * Neovim
 * Visual Studio
 * Visual Studio Code
 * CMake
 
-### Concepts
+## Software Engineering
 
 * Object-Oriented Programming
 * Data Structures & Algorithms
-* Multithreading
-* MVC Architecture
-* File & Database Persistence
-* UI/UX Design
+* Multi threading
+* Database Design
+* File Handling
 * Software Design Principles
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-## 🩺 Doctor Booking System
+## 🩺 Clinic Management System
 
-A Windows Forms desktop application for managing patients, doctors, appointments, and scheduling.
+A Windows Forms desktop application developed to manage doctors, patients, appointments, and scheduling.
 
-**Highlights**
+### Features
 
-* Patient management
-* Doctor management
+* Patient and doctor management
 * Appointment scheduling
+* Prescription generation
 * SQL database integration
-* Data binding with DataSets
-* CRUD operations
-* Localisation support (multiple languages)
+* CRUD functionality
 
-> Repository: *(Add GitHub link)*
+**Technologies:** C#, .NET Windows Forms, SQL Server
 
 ---
 
-## 📦 Inventory Management System (Qt)
+## 📦 Inventory Management System
 
-A desktop application for managing inventory, stock levels, and customer orders.
+A Qt desktop application for managing inventory and processing customer orders.
 
-**Highlights**
+### Features
 
 * Qt Widgets interface
-* MVC architecture
-* File-based persistence
+* File persistence
 * Multithreaded order processing
 * Modular application design
 
-> Repository: *(Add GitHub link)*
+**Technologies:** C++, Qt, CMake
+
+---
+##🚀 RepoPilot – A GitHub productivity tool
+
+---
+##🌊 Ripple – A modern React application
 
 ---
 
-## ✅ Task Manager (Qt)
-
-A desktop productivity application for organizing daily tasks and deadlines.
-
-**Highlights**
-
-* Qt Designer interface
-* Task categorisation
-* JSON data storage
-* Clean and responsive UI
-
-> Repository: *(Add GitHub link)*
-
----
-
-## 🌍 Localised Desktop Applications
-
-A collection of desktop applications demonstrating internationalisation and localisation.
-
-**Highlights**
-
-* Runtime language switching
-* Resource-based translations
-* User preference persistence
-* Multi-language user interfaces
-
----
-
-# 📚 Current Learning
+# 🌱 Currently Learning
 
 I'm currently expanding my knowledge in:
 
 * Modern C++
-* Operating Systems
 * Software Architecture
 * Concurrent Programming
+* Operating Systems
 * Linux Development
 * Design Patterns
+* Backend Development
 * Advanced Data Structures & Algorithms
 
 ---
 
-# 🎯 Goals
+## 🚧 Currently Building
+- Forge - A
+- 📚 Improving modern C++ through personal projects.
+---
 
-My objective is to become a well-rounded software engineer capable of designing scalable, maintainable, and efficient software across desktop, systems, and backend development.
+# 📜 Certifications
+
+* Responsive Web Design — freeCodeCamp
+
+---
+
+# 🎯 Career Goals
+
+My goal is to become a versatile software engineer capable of designing reliable, scalable, and maintainable software. I'm interested in software engineering, backend systems, desktop application development, and modern development practices, and I'm always looking for opportunities to learn and contribute to meaningful projects.
 
 ---
 
 # 📫 Contact
 
 * **GitHub:** https://github.com/amkelecele
-* **Email:** [your@email.com](mailto:amkelecele28@gmail.com)
+* **Email:** [amkelecele82@gmail.com](mailto:amkelecele82@gmail.com)
+
+Thank you for visiting my portfolio!
+
 
