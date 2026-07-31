@@ -100,10 +100,16 @@ A Qt desktop application for managing inventory and processing customer orders.
 **Technologies:** C++, Qt, CMake
 
 ---
-##🚀 RepoPilot – A GitHub productivity tool
+
+##🚀 RepoPilot 
+
+A GitHub productivity tool
 
 ---
-##🌊 Ripple – A modern React application
+
+##🌊 Ripple
+
+A modern React application
 
 ---
 
