@@ -135,10 +135,10 @@ An AI-powered journaling application designed to help users reflect on their dai
 
 I'm currently expanding my knowledge in:
 
-* Modern C++
+* Theory of Computation
 * Software Architecture
-* Concurrent Programming
-* Operating Systems
+* Artificial Intelligence
+* Networking and Database Management
 * Linux Development
 * Design Patterns
 * Backend Development
@@ -147,8 +147,8 @@ I'm currently expanding my knowledge in:
 ---
 
 ## 🚧 Currently Building
-- Forge - A
-- 📚 Improving modern C++ through personal projects.
+- Forge - A personal progress tracker application developed in React & Node.js
+
 ---
 
 # 📜 Certifications
