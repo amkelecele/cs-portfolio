@@ -101,16 +101,34 @@ A Qt desktop application for managing inventory and processing customer orders.
 
 ---
 
-##🚀 RepoPilot 
+## 🚀 RepoPilot 
 
-A GitHub productivity tool
+An AI-powered desktop application that transforms project ideas into structured starter repositories, helping developers kickstart new projects faster.
+
+### Features
+
+* Generate project scaffolds from natural language prompts
+* AI-assisted project planning and code generation
+* Create organized project structures and boilerplate code
+* Streamlined workflow for rapidly prototyping new ideas
+
+**Technologies:** C++, Qt, CMake, ASI:ONE API
 
 ---
 
-##🌊 Ripple
+## 🌊 Ripple
 
-A modern React application
+An AI-powered journaling application designed to help users reflect on their daily experiences, track emotional well-being, and gain meaningful insights over time.
 
+### Features
+
+* Create and organize daily journal entries
+* AI-generated reflections and summaries
+* Emotion and mood tracking
+* Clean, distraction-free desktop interface
+* Secure local storage of journal data
+
+**Technologies:** C++, Qt, CMake
 ---
 
 # 🌱 Currently Learning
